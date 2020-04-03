@@ -4,6 +4,7 @@
 	<title>LBS WIKI</title>
 	<meta charset="utf-8">
 	<meta author="Diego Mariano">
+	<link rel="shortcut icon" href="<?=base_url()?>/public/img/logo.png">
 	<link rel="stylesheet" href="<?=base_url()?>/public/css/style.css">
 </head>
 
