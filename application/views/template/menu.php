@@ -1,13 +1,22 @@
-<li class="chapter" data-level="" data-path="index.html">
-	<a href="<?=base_url()?>/home/agradecimentos"><i class="fa fa-check"></i>Prefácio</a>
+<!-- Seção -->
+<li class="chapter" data-level=""><a href="<?=base_url()?>/home/agradecimentos"><i class="fa fa-check"></i>Prefácio</a></li>
+<!-- FIM Seção -->
+
+<!-- Seção -->
+<li class="chapter" data-level="">
+	<a href="<?=base_url()?>/home/agradecimentos"><i class="fa fa-check"></i>Agradecimentos</a>
 </li>
+<!-- FIM Seção -->
 
-<li class="chapter" data-level=""><a href="acknowledgments.html"><i class="fa fa-check"></i>Agradecimentos</a></li>
+<!-- Seção -->
+<li class="part"><span><b>Parte I - Introdução</b></span></li>
+<!-- FIM Seção -->
 
-<li class="chapter" data-level="1" data-path="getting-started.html"><a href="getting-started.html"><i class="fa fa-check"></i><b>1</b> Introdução</a>
+<!-- Seção -->
+<li class="chapter" data-level="1" data-path="getting-started.html"><a href="getting-started.html"><i class="fa fa-check"></i><b>1</b> Bioinformática Estrutural</a>
+<!-- FIM Seção -->
 
-<li class="part"><span><b>Parte I</b></span></li>
-
+<!-- Seção -->
 <li class="chapter" data-level="2" data-path="r-basics.html">
 	<a href="r-basics.html"><i class="fa fa-check"></i><b>2</b> Básico</a>
 
@@ -24,7 +33,15 @@
 		</li>
 	</ul>
 </li>
-<li class="chapter" data-level="1" data-path="getting-started.html"><a href="getting-started.html"><i class="fa fa-check"></i><b>6</b> Alinhamento estrutural</a>
+<!-- FIM Seção -->
+
+<!-- Seção -->
+<li class="chapter" data-level="1">
+	<a href="<?=base_url()?>/home/alinhamento_estrutural">
+		<i class="fa fa-check"></i><b>6</b> Alinhamento estrutural
+	</a>
+</li>
+<!-- FIM Seção -->
 
 </ul>
 </nav>
