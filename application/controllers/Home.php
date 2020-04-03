@@ -3,8 +3,14 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 class Home extends CI_Controller {
 
-	public function index()
+	public function index($id = NULL)
 	{
-		$this->template->show('home');
+		if(isset($id)){
+			$this->template->show($id);
+		}
+		else{
+			$this->template->show('home');
+		}
+		
 	}
 }

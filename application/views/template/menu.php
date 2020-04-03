@@ -1,8 +1,8 @@
 <li class="chapter" data-level="" data-path="index.html">
-	<a href="index.html"><i class="fa fa-check"></i>Prefácio</a>
+	<a href="<?=base_url()?>/home/agradecimentos"><i class="fa fa-check"></i>Prefácio</a>
 </li>
 
-<li class="chapter" data-level="" data-path="acknowledgments.html"><a href="acknowledgments.html"><i class="fa fa-check"></i>Agradecimentos</a></li>
+<li class="chapter" data-level=""><a href="acknowledgments.html"><i class="fa fa-check"></i>Agradecimentos</a></li>
 
 <li class="chapter" data-level="1" data-path="getting-started.html"><a href="getting-started.html"><i class="fa fa-check"></i><b>1</b> Introdução</a>
 
@@ -36,7 +36,10 @@
 
 			<a class="btn pull-left js-toolbar-action" aria-label="Toggle Sidebar" title="Toggle Sidebar" href="#"><i class="fa fa-align-justify"></i></a><a class="btn pull-left js-toolbar-action" aria-label="Search" title="Search" href="#"><i class="fa fa-search"></i></a>
 
-			<a class="btn pull-right js-toolbar-action" aria-label="Facebook" title="Facebook" href="#"><i class="fa fa-facebook"></i></a><a class="btn pull-right js-toolbar-action" aria-label="Twitter" title="Twitter" href="#"><i class="fa fa-twitter"></i></a>
+			<a class="btn pull-right js-toolbar-action" aria-label="Facebook" title="Facebook" href="#"><i class="fa fa-facebook"></i></a>
+
+			<a class="btn pull-right js-toolbar-action" aria-label="Twitter" title="Twitter" href="#"><i class="fa fa-twitter"></i></a>
+
 			<div class="dropdown pull-left font-settings js-toolbar-action"><a class="btn toggle-dropdown" aria-label="Font Settings" title="Font Settings" href="#"><i class="fa fa-font"></i></a>
 				<div class="dropdown-menu dropdown-right">
 					<div class="dropdown-caret">
@@ -53,7 +56,7 @@
 				</div>
 			</div>
 
-			<a class="btn pull-left js-toolbar-action" aria-label="Edit" title="Edit" href="#"><i class="fa fa-edit"></i></a><a class="btn pull-left js-toolbar-action" aria-label="Information about the toolbar" title="Information about the toolbar" href="#"><i class="fa fa-info"></i></a>
+			<a class="btn pull-left js-toolbar-action" aria-label="Edit" title="Edit" href="#"><i class="fa fa-edit"></i></a><a class="btn pull-left js-toolbar-action" aria-label="Information about the toolbar" title="" href="#"><i class="fa fa-info"></i></a>
 
 			<h1>
 	        	<i class="fa fa-circle-o-notch fa-spin"></i><a href="<?=base_url()?>">Manual prático-teórico de Bioinformática Estrutural</a>

@@ -104,7 +104,7 @@ Referências do capítulo</h3>
 
 <div class="footnotes">
 	<hr>
-	<ol start="115">
+	<ol start="1">
 	<li id="fn115"><p><a href="http://github.com" class="uri">http://github.com</a><a href="introduction-to-productivity-tools.html#fnref115" class="footnote-back">↩</a></p></li>
 	<li id="fn116"><p><a href="https://www.rstudio.com/" class="uri">https://www.rstudio.com/</a><a href="introduction-to-productivity-tools.html#fnref116" class="footnote-back">↩</a></p></li>
 	</ol>
