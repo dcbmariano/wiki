@@ -8,6 +8,9 @@ class Template {
  
 			// Load header
 			$CI->load->view('template/header',$data);
+
+			// Load menu
+			$CI->load->view('template/menu',$data);
  
 			// Load content
 			$CI->load->view($view,$data);
