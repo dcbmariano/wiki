@@ -1,0 +1,292 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"matri",
+				"matriz_bidimensional"
+			],
+			[
+				"seq",
+				"seq_end"
+			],
+			[
+				"prot",
+				"prot_mut"
+			],
+			[
+				"ini",
+				"ini_fim"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/Diego/Desktop/a.html",
+			"settings":
+			{
+				"buffer_size": 17076,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Diego/GitHub/wiki"
+	],
+	"file_history":
+	[
+		"/C/Users/Diego/Downloads/6nzk.pdb",
+		"/C/Users/Diego/Downloads/1f2s.fasta.txt",
+		"/C/Users/Diego/Desktop/backup/ec2_proteus/2LZM.txt",
+		"/C/Users/Diego/Desktop/backup/ec2_proteus/processa_2lzm.py",
+		"/C/Users/Diego/Desktop/a.py",
+		"/C/Users/Diego/Desktop/Alinhamento_Estrutural copiadoc (1).htm",
+		"/C/Users/Diego/AppData/Local/Temp/Rar$DIa5808.2541/readme.txt",
+		"/C/Users/Diego/Desktop/backup/ec2_proteus/2LZM.csv",
+		"/C/Users/diogo/Desktop/ec2_proteus/compara_proteus_experimental.py",
+		"/C/Users/diogo/Desktop/ec2_proteus/experimental2.txt",
+		"/C/Users/diogo/Desktop/ec2_proteus/2LZM.csv",
+		"/C/Users/diogo/Desktop/ec2_proteus/processa_2lzm.py",
+		"/C/Users/diogo/Desktop/ec2_proteus/experimental.txt",
+		"/C/Users/diogo/Desktop/ec2_proteus/parser.txt",
+		"/C/Users/diogo/Desktop/ec2_proteus/2LZM.txt",
+		"/C/Users/diogo/Desktop/ec2_proteus/predito.txt",
+		"/C/Users/Diego/Downloads/db/sp_A3BMZ5_BGL26_ORYSJ.B99990008.pdb",
+		"/C/Users/diogo/Desktop/ec2_proteus/parser.py",
+		"/C/Users/Diego/AppData/Roaming/Sublime Text 3/Packages/SyntaxHighlightTools/README.rst",
+		"/C/Users/Diego/Downloads/2_sol.res",
+		"/C/Users/Diego/Downloads/tandf_tbsd20AxA_1.bib",
+		"/C/Users/Diego/Downloads/db/tabela_energia.py",
+		"/C/Users/Diego/AppData/Local/Temp/Rar$DIa66428.38015/README",
+		"/C/Users/Diego/Desktop/run_out.py",
+		"/C/Users/Diego/Desktop/out.txt",
+		"/C/Users/Diego/Desktop/script_thiago/le_seq.py",
+		"/C/Users/Diego/Desktop/a.csv",
+		"/C/Users/Diego/Desktop/tudo.tsv",
+		"/C/Users/Diego/Desktop/pos.txt",
+		"/C/Users/Diego/Desktop/filtra_thiago.py",
+		"/C/Users/Diego/Downloads/Cp1002_cds.fasta",
+		"/C/Users/Diego/Desktop/le_seq.py",
+		"/C/Users/Diego/Desktop/resultado2.csv"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".*,.*",
+			" ",
+			"    "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			"\\t"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Diego/Desktop/a.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 17076,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								17076
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 219.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "wiki.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 231.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
