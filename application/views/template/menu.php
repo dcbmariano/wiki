@@ -56,7 +56,7 @@
 			<a class="btn pull-left js-toolbar-action" aria-label="Edit" title="Edit" href="#"><i class="fa fa-edit"></i></a><a class="btn pull-left js-toolbar-action" aria-label="Information about the toolbar" title="Information about the toolbar" href="#"><i class="fa fa-info"></i></a>
 
 			<h1>
-	        	<i class="fa fa-circle-o-notch fa-spin"></i><a href="./">Introduction to Data Science</a>
+	        	<i class="fa fa-circle-o-notch fa-spin"></i><a href="<?=base_url()?>">Manual prático-teórico de Bioinformática Estrutural</a>
 	        </h1>
     	</div>
 
