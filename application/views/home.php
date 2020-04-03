@@ -3,8 +3,7 @@
 	<h2 class="subtitle"><em>Alinhamento estrutural</em></h2>
 	<p class="author"><em>Vitor Pimentel</em></p>
 	<p class="date"><em>04 de abril de 2020</em></p>
-	<hr>
-	<p style="font-size: 10px; color:#777">Revisor teórico: Diego Mariano</p>
+	
 	<br>
 </div>
 <div id="introduction-to-productivity-tools" class="section level1">
