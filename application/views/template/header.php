@@ -15,5 +15,5 @@
 
 				<li><a href="<?=base_url()?>"><img src="<?=base_url()?>/public/img/logo.svg" style="width:25px; margin-bottom:-7px"> LBS WIKI</a></li>
 
-				<li class="divider"></li>
+				<li class="divider"></li> 
 
