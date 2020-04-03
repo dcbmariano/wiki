@@ -14,7 +14,7 @@
 <div class="footnotes">
 	<hr>
 	<ol start="1">
-		<li id="fn115"><p><a href="http://bioinfo.dcc.ufmg.br/wiki//home/agradecimentos" class="uri">Agradecimentos</a><a href="introduction-to-productivity-tools.html#fnref115" class="footnote-back">↩</a></p></li>
-		<li id="fn116"><p><a href="http://bioinfo.dcc.ufmg.br/wiki//home/alinhamento_estrutural" class="uri">Alinhamento estrutural</a><a href="introduction-to-productivity-tools.html#fnref116" class="footnote-back">↩</a></p></li>
+		<li id="fn115"><p><a href="http://bioinfo.dcc.ufmg.br/wiki/home/i/agradecimentos" class="uri">Agradecimentos</a><a href="introduction-to-productivity-tools.html#fnref115" class="footnote-back">↩</a></p></li>
+		<li id="fn116"><p><a href="http://bioinfo.dcc.ufmg.br/wiki/home/i/alinhamento_estrutural" class="uri">Alinhamento estrutural</a><a href="introduction-to-productivity-tools.html#fnref116" class="footnote-back">↩</a></p></li>
 	</ol>
 </div>

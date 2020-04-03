@@ -4,7 +4,7 @@
 
 <!-- Seção -->
 <li class="chapter" data-level="">
-	<a href="<?=base_url()?>/home/agradecimentos"><i class="fa fa-check"></i>Agradecimentos</a>
+	<a href="<?=base_url()?>home/i/agradecimentos"><i class="fa fa-check"></i>Agradecimentos</a>
 </li>
 <!-- FIM Seção -->
 
@@ -37,7 +37,7 @@
 
 <!-- Seção -->
 <li class="chapter" data-level="1">
-	<a href="<?=base_url()?>/home/alinhamento_estrutural">
+	<a href="<?=base_url()?>/home/i/alinhamento_estrutural">
 		<i class="fa fa-check"></i><b>6</b> Alinhamento estrutural
 	</a>
 </li>
