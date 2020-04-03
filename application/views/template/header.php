@@ -13,7 +13,7 @@
     	<nav role="navigation">
 			<ul class="summary">
 
-				<li><a href="<?=base_url()?>"><img src="<?=base_url()?>/public/img/logo.png"> LBS WIKI</a></li>
+				<li><a href="<?=base_url()?>"><img src="<?=base_url()?>/public/img/logo.svg"> LBS WIKI</a></li>
 
 				<li class="divider"></li>
 
