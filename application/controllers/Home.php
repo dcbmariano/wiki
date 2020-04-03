@@ -8,7 +8,7 @@ class Home extends CI_Controller {
 		$this->template->show('home');
 	}
 
-	public function page($id == NULL){
+	public function i($id = NULL){
 		if(isset($id)){
 			$this->template->show($id);
 		}
